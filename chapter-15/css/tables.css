@@ -24,12 +24,12 @@ tr.head th {
 	text-shadow: -1px -1px 1px #666;
 	letter-spacing: 0.15em;}
 tr.head th:first-child {
-	-webkit-border-top-left-radius: 5px;
-	-moz-border-radius-topleft: 5px;
+	/* -webkit-border-top-left-radius: 5px;
+	-moz-border-radius-topleft: 5px; */
 	border-top-left-radius: 5px;}
 tr.head th:last-child {
-	-webkit-border-top-right-radius: 5px;
-	-moz-border-radius-topright: 5px;
+	/* -webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topright: 5px; */
 	border-top-right-radius: 5px;}
 td {
 	text-shadow: 1px 1px 1px #fff;}
